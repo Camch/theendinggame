@@ -4,7 +4,7 @@ import { Button } from 'react-bootstrap';
 function No () {
     return(
         <div>
-            <Button> NO </Button>
+            <Button variant="primary"> NO </Button>
         </div>
     );
 }
