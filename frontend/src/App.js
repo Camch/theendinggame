@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Yes> </Yes>
-        <No></No>
+        <No> </No>
 
       </header>
     </div>
