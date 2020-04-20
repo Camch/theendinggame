@@ -2,7 +2,7 @@ import React from 'react';
 
 function StateCard () {
     return(
-        <div></div>
+        <div> This is a div </div>
     );
 }
 
